@@ -4,3 +4,4 @@ data/quandl_data_table_downloads/AR/IVM_20250110.zip
 __pycache__/
 .DS_Store
 config.py
+data/
